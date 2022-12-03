@@ -19,7 +19,7 @@
     <depends optional="true" config-file="empty-config.xml">PythonCore</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <toolWindow id="Artemis" anchor="right" icon="/toolWindowIcon.png"
+        <toolWindow id="Artemis" anchor="right" icon="/toolWindowIcon.svg"
                     factoryClass="de.tum.www1.orion.ui.browser.BrowserFactory"/>
         <projectConfigurable instance="de.tum.www1.orion.ui.settings.OrionPluginSettings"
                              id="de.tum.www1.orion.ui.settings"
