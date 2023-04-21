@@ -39,7 +39,7 @@ tasks {
         // See https://plugins.jetbrains.com/docs/intellij/build-number-ranges.html
         sinceBuild.set("231")
         // Orion Plugin version. Needs to be incremented for every new release!
-        version.set("1.2.1")
+        version.set("1.2.2-alpha.2")
         changeNotes.set(
             """<p>
             <h1>Version Upgrade</h1>
